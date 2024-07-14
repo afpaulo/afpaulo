@@ -9,19 +9,22 @@
 
 ## 🛠 &nbsp;Tech Stack
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
-![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
+<div style="width: 1060em;">
+    <div style="display: flex; flex-wrap: wrap; gap: 10px;">
+        <img src="https://img.shields.io/badge/-HTML5-%23E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5"/>
+        <img src="https://img.shields.io/badge/-CSS3-%231572B6?style=flat&logo=css3&logoColor=white" alt="CSS3"/>
+        <img src="https://img.shields.io/badge/-JavaScript-%23323330?style=flat&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
+        <img src="https://img.shields.io/badge/-React.js-%2320232a?style=flat&logo=react&logoColor=%2361DAFB" alt="ReactJS"/>
+        <img src="https://img.shields.io/badge/-Node.js-6DA55F?style=flat&logo=node.js&logoColor=white" alt="NodeJS"/>
+        <img src="https://img.shields.io/badge/-Git-%23F05033?style=flat&logo=git&logoColor=white" alt="Git"/>
+        <img src="https://img.shields.io/badge/-GitHub-%23121011?style=flat&logo=github&logoColor=white" alt="GitHub"/>
+        <img src="https://img.shields.io/badge/-PHP-%23777BB4?style=flat&logo=php&logoColor=white" alt="PHP"/>
+        <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL"/>
+        <img src="https://img.shields.io/badge/-SASS-hotpink?style=flat&logo=SASS&logoColor=white" alt="SASS"/>
+        <img src="https://img.shields.io/badge/-Laravel-%23FF2D20?style=flat&logo=laravel&logoColor=white" alt="Laravel"/>
+    </div>
+</div>
 
-<br><br>
 
 ## ⚙️ &nbsp;GitHub Analytics
 
@@ -29,58 +32,6 @@
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=afpaulo&show_icons=true&theme=dracula" alt="afpaulo's stats"/>
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afpaulo&layout=compact&theme=dracula" alt="afpaulo's most languages"/>
 </p>
-
-
-<br><br>
-
-
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain-wordmark.svg">
-
- 
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
