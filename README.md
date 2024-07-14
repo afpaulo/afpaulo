@@ -11,8 +11,11 @@
 
 <div align="center">
     <h2><strong>🛠 &nbsp;Stacks</strong></h2>
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+    <div align="center">
+      <img src="https://skillicons.dev/icons?i=html,css,javascript,react,mysql,php,laravel,git,github" />
+      <img src="https://skillicons.dev/icons?i=bootstrap,vscode,sass,nodejs,tailwind,typescript,mongodb,figma" />
+    </div>
+
 </div>
 
 <div align="center"> 
@@ -25,7 +28,7 @@
 
 <div align="center">
  <h2><strong> &nbsp;My Contributions</strong></h2>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" /> 
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/afpaulo/afpaulo/output/github-contribution-grid-snake.svg" /> 
   <br/><br/><br/>
 </div>
 
