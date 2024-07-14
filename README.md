@@ -7,9 +7,7 @@
 
 
 ## 🛠 &nbsp;Stacks
-
-<div style="width: 5030em;">
-    <div style="display: flex; flex-wrap: wrap; gap: 10px;">
+<div width="500em" display="flex">
         <img src="https://img.shields.io/badge/-HTML5-%23E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5"/>
         <img src="https://img.shields.io/badge/-CSS3-%231572B6?style=flat&logo=css3&logoColor=white" alt="CSS3"/>
         <img src="https://img.shields.io/badge/-JavaScript-%23323330?style=flat&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
@@ -21,7 +19,6 @@
         <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL"/>
         <img src="https://img.shields.io/badge/-SASS-hotpink?style=flat&logo=SASS&logoColor=white" alt="SASS"/>
         <img src="https://img.shields.io/badge/-Laravel-%23FF2D20?style=flat&logo=laravel&logoColor=white" alt="Laravel"/>
-    </div>
 </div>
 
 
@@ -29,8 +26,8 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=afpaulo&show_icons=true&theme=dracula" alt="afpaulo's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afpaulo&layout=compact&theme=dracula" alt="afpaulo's most languages"/>
+<img width="500em" src="https://github-readme-stats.vercel.app/api?username=afpaulo&show_icons=true&theme=dracula" alt="afpaulo's stats"/>
+<img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afpaulo&layout=compact&theme=dracula" alt="afpaulo's most languages"/>
 </p>
 
 
