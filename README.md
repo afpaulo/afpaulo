@@ -1,6 +1,7 @@
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/afpaulo/0c58cafa264334d6d883ab0182e9f9ab/raw/38962ce66e05f23e308a0e6791bc2c884cb983ab/githubcard.svg"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Afonso Paulo</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=afpaulo&color=yellow" alt="Profile views" /> </p>
+![snake gif](https://github.com/afpaulo/afpaulo/blob/output/github-contribution-grid-snake.svg)
 
 - 🔭 Trabalhando com Front-End
 - 🌱 Estudando React Js
