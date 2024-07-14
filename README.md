@@ -3,20 +3,20 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=afpaulo&color=yellow" alt="Profile views" /> </p>
 
 <div align="center">
-  -🖥️ Estudando front-end.
-  -🎓 Técnica.
-  -🔮 Materializando ideias em códigos desde 2019!
+    <p>🖥️ Estudando front-end.</p>
+    <p>🎓 Técnica.</p>
+    <p>🔮 Materializando ideias em códigos desde 2019!</p>
 </div>
 
-## 🛠 &nbsp;Stacks
+
 <div align="center">
+    <h2><strong>🛠 &nbsp;Stacks</strong></h2>
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
 </div>
 
- ## Contact
 <div align="center"> 
-  
+    <h2><strong> &nbsp;Contacts</strong></h2>
   <a href="https://dev.to/afpaulo" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/maria-karoline/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:afpaulo203@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -25,27 +25,19 @@
 </div>
 
 <div align="center">
-  
- ## My Contributions
-
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
+ <h2><strong> &nbsp;My Contributions</strong></h2>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" /> 
   <br/><br/><br/>
 </div>
-  
 
+<div align="center">
+   <h2><strong>⚙️ &nbsp;Stats</strong></h2>
+<img width=390 src="https://github-readme-stats.vercel.app/api?username=afpaulo&show_icons=true&theme=dracula" alt="afpaulo's stats"/>
+<img width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=afpaulo&layout=compact&theme=dracula" alt="afpaulo's most languages"/>
+</div>
 
-
-## ⚙️ &nbsp;Stats
-
-<p align="center">
-<img width="500em" src="https://github-readme-stats.vercel.app/api?username=afpaulo&show_icons=true&theme=dracula" alt="afpaulo's stats"/>
-<img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afpaulo&layout=compact&theme=dracula" alt="afpaulo's most languages"/>
-</p>
-
- ## Follow Me
 <div align="center"> 
-  
+   <h2><strong>&nbsp;Follow Me</strong></h2>
   <a href="https://dev.to/mariapalito" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"></a>
   <a href = "mailto:mklp1@aluno.ifal.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/maria-karoline/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
