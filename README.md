@@ -2,16 +2,20 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Afonso Paulo</h1>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=afpaulo&color=yellow" alt="Profile views" /> </p>
 
-<div align="center" display="block">
-  🖥️ Estudando front-end.
-  🎓 Técnica.
-  🔮 Materializando ideias em códigos desde 2019!
-
-## 🛠 &nbsp;Stacks-Tools
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+<div align="center" display="inline-block">
+  -🖥️ Estudando front-end.
+  -🎓 Técnica.
+  -🔮 Materializando ideias em códigos desde 2019!
 </div>
+
+## ⚙️ &nbsp;GitHub Analytics
+
+<p align="left">
+<img width="500em" src="https://github-readme-stats.vercel.app/api?username=afpaulo&show_icons=true&theme=dracula" alt="afpaulo's stats"/>
+<img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afpaulo&layout=compact&theme=dracula" alt="afpaulo's most languages"/>
+</p>
+
+
 <div align="center">
   <h2>My Contributions</h2>
   <br>
@@ -20,37 +24,13 @@
   <br/><br/><br/>
 </div>
   
-</div>d
-
-##
-
-<br>
-<div align="center" display="inline-block">
-  <a href="https://github.com/mariakarolinesvg">
-
-## 🛠 &nbsp;Stacks
-<div width="500em" display="flex">
-        <img src="https://img.shields.io/badge/-HTML5-%23E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5"/>
-        <img src="https://img.shields.io/badge/-CSS3-%231572B6?style=flat&logo=css3&logoColor=white" alt="CSS3"/>
-        <img src="https://img.shields.io/badge/-JavaScript-%23323330?style=flat&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
-        <img src="https://img.shields.io/badge/-React.js-%2320232a?style=flat&logo=react&logoColor=%2361DAFB" alt="ReactJS"/>
-        <img src="https://img.shields.io/badge/-Node.js-6DA55F?style=flat&logo=node.js&logoColor=white" alt="NodeJS"/>
-        <img src="https://img.shields.io/badge/-Git-%23F05033?style=flat&logo=git&logoColor=white" alt="Git"/>
-        <img src="https://img.shields.io/badge/-GitHub-%23121011?style=flat&logo=github&logoColor=white" alt="GitHub"/>
-        <img src="https://img.shields.io/badge/-PHP-%23777BB4?style=flat&logo=php&logoColor=white" alt="PHP"/>
-        <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL"/>
-        <img src="https://img.shields.io/badge/-SASS-hotpink?style=flat&logo=SASS&logoColor=white" alt="SASS"/>
-        <img src="https://img.shields.io/badge/-Laravel-%23FF2D20?style=flat&logo=laravel&logoColor=white" alt="Laravel"/>
+## 🛠 &nbsp;Stacks-Tools
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
 </div>
 
 
-
-## ⚙️ &nbsp;GitHub Analytics
-
-<p align="left">
-<img width="500em" src="https://github-readme-stats.vercel.app/api?username=afpaulo&show_icons=true&theme=dracula" alt="afpaulo's stats"/>
-<img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afpaulo&layout=compact&theme=dracula" alt="afpaulo's most languages"/>
-</p>
 
 <div align="center"> 
   
