@@ -1,37 +1,25 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/afpaulo/0c58cafa264334d6d883ab0182e9f9ab/raw/38962ce66e05f23e308a0e6791bc2c884cb983ab/githubcard.svg"/>
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Afonso Paulo</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=afpaulo&color=yellow" alt="Profile views" /> </p>
 
-<ul>
-  <li>🖥️ Estudando front-end. </li>
-  <li>🎓 Técnica. </li>
-  <li>🔮 Materializando ideias em códigos desde 2019!</li>
-</ul>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Afonso Paulo</h1>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=afpaulo&color=yellow" alt="Profile views" /> </p>
+
+<div align="center">
+  🖥️ Estudando front-end. </li>
+  🎓 Técnica. </li>
+  🔮 Materializando ideias em códigos desde 2019!</li>
+
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+</div>
+
+  
+</div>d
 
 ##
 
 <br>
 <div align="center" display="inline-block">
   <a href="https://github.com/mariakarolinesvg">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=afpaulo&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afpaulo&layout=compact&langs_count=7&theme=react" />
-
-</div>
-<br>
-<div align="center"> 
-   <img alt="Karol-vscode" height="25" width="33" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  <img  alt="Karol-HTML" height="25" width="33" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img  alt="Karol-CSS" height="25" width="33" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img  alt="Karol-Js" height="25" width="33" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img  alt="Karol-Ts" height="25" width="33" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img  alt="Karol-React" height="25" width="33" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img alt="Karol-git" height="25" width="33" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />          
-</div>
-  
-
-- 🔭 Trabalhando com Front-End
-- 🌱 Estudando React Js
-
 
 ## 🛠 &nbsp;Stacks
 <div width="500em" display="flex">
