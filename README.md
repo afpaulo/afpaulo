@@ -4,12 +4,11 @@
 
 - 🔭 Trabalhando com Front-End
 - 🌱 Estudando React Js
-- 😄 Pronouns: ele/dele
 
 
-## 🛠 &nbsp;Tech Stack
+## 🛠 &nbsp;Stacks
 
-<div style="width: 1060em;">
+<div style="width: 5030em;">
     <div style="display: flex; flex-wrap: wrap; gap: 10px;">
         <img src="https://img.shields.io/badge/-HTML5-%23E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5"/>
         <img src="https://img.shields.io/badge/-CSS3-%231572B6?style=flat&logo=css3&logoColor=white" alt="CSS3"/>
@@ -34,10 +33,7 @@
 </p>
 
 
-
-  
-  ##
- 
+ ## Contact
 <div> 
   <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
