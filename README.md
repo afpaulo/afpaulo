@@ -17,6 +17,35 @@
  ## Contact
 <div align="center"> 
   
+  <a href="https://dev.to/afpaulo" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/maria-karoline/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:afpaulo203@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/afpaulo-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+</div>
+
+<div align="center">
+  
+ ## My Contributions
+
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+  
+
+
+
+## ⚙️ &nbsp;Stats
+
+<p align="center">
+<img width="500em" src="https://github-readme-stats.vercel.app/api?username=afpaulo&show_icons=true&theme=dracula" alt="afpaulo's stats"/>
+<img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afpaulo&layout=compact&theme=dracula" alt="afpaulo's most languages"/>
+</p>
+
+ ## Follow Me
+<div align="center"> 
+  
   <a href="https://dev.to/mariapalito" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"></a>
   <a href = "mailto:mklp1@aluno.ifal.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/maria-karoline/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -28,25 +57,5 @@
   <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 </div>
-
-<div align="center">
-  <h2>My Contributions</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
-  
-
-
-
-## ⚙️ &nbsp;Stats
-
-<p align="left">
-<img width="500em" src="https://github-readme-stats.vercel.app/api?username=afpaulo&show_icons=true&theme=dracula" alt="afpaulo's stats"/>
-<img width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afpaulo&layout=compact&theme=dracula" alt="afpaulo's most languages"/>
-</p>
-
-
 
 
