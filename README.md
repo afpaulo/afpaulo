@@ -12,7 +12,7 @@
 <div align="center">
     <h2><strong>🛠 &nbsp;Stacks</strong></h2>
     <div align="center">
-      <img src="https://skillicons.dev/icons?i=html,css,javascript,react,mysql,php,laravel,git,github" />
+      <img src="https://skillicons.dev/icons?i=html,css,javascript,react,mysql,express,git,github" />
       <img src="https://skillicons.dev/icons?i=nextjs,vscode,prisma,nodejs,tailwind,typescript,mongodb,figma" />
     </div>
 
