@@ -23,16 +23,15 @@
 
 <div align="center">
   <h2><strong>Contacts</strong></h2>
-  <a href="mailto:afpaulo203@gmail.com" title="Gmail">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="gmail" width="30" height="30" />
+
+  <a href="mailto:afpaulo203@gmail.com" target="_blank" title="Gmail">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gmail.svg" width="40" height="40" style="border-radius: 50%; margin: 0 10px;" />
   </a>
-  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/afpaulo-45875016a" target="_blank" title="LinkedIn">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="30" height="30" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" height="40" style="border-radius: 50%; margin: 0 10px;" />
   </a>
-  &nbsp;&nbsp;
   <a href="https://dev.to/afpaulo" target="_blank" title="Dev.to">
-    <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="dev.to" width="30" height="30" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="40" height="40" style="border-radius: 50%; margin: 0 10px;" />
   </a>
 </div>
 
@@ -40,19 +39,17 @@
 
 <div align="center">
   <h2><strong>Social</strong></h2>
+
   <a href="https://instagram.com/afonsopaulo.official" target="_blank" title="Instagram">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="instagram" width="30" height="30" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="40" height="40" style="border-radius: 50%; margin: 0 10px;" />
   </a>
-  &nbsp;&nbsp;
   <a href="https://facebook.com/afonsopaulo.official" target="_blank" title="Facebook">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="facebook" width="30" height="30" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="40" height="40" style="border-radius: 50%; margin: 0 10px;" />
   </a>
-  &nbsp;&nbsp;
   <a href="https://www.twitch.tv/afpaulo" target="_blank" title="Twitch">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/twitch.svg" alt="twitch" width="30" height="30" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="40" height="40" style="border-radius: 50%; margin: 0 10px;" />
   </a>
-  &nbsp;&nbsp;
   <a href="https://discord.gg/wagxzStdcR" target="_blank" title="Discord">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/discord.svg" alt="discord" width="30" height="30" />
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="40" height="40" style="border-radius: 50%; margin: 0 10px;" />
   </a>
 </div>
