@@ -34,24 +34,30 @@
   </a>
 </div>
 
-<br/>
-
-<div align="center">
+<br/><div align="center">
   <h2><strong>Social</strong></h2>
 
-  <a href="https://instagram.com/afonsopaulo.official" target="_blank" title="Instagram">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" width="36" height="36" style="margin: 0 12px; border-radius: 50%;" />
+  <a href="https://instagram.com/afonsopaulo-official" target="_blank">
+    <img src="https://img.shields.io/badge/-%20-%23E4405F?logo=instagram&logoColor=white&style=social" height="40" style="border-radius: 50%; margin: 0 10px;" />
   </a>
 
-  <a href="https://facebook.com/afonsopaulo.official" target="_blank" title="Facebook">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/facebook.svg" width="36" height="36" style="margin: 0 12px; border-radius: 50%;" />
+  <a href="https://facebook.com/afpaulo203" target="_blank">
+    <img src="https://img.shields.io/badge/-%20-%231877F2?logo=facebook&logoColor=white&style=social" height="40" style="border-radius: 50%; margin: 0 10px;" />
   </a>
 
-  <a href="https://www.twitch.tv/afpaulo" target="_blank" title="Twitch">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/twitch.svg" width="36" height="36" style="margin: 0 12px; border-radius: 50%;" />
+  <a href="https://www.twitch.tv/afpaulo" target="_blank">
+    <img src="https://img.shields.io/badge/-%20-%239146FF?logo=twitch&logoColor=white&style=social" height="40" style="border-radius: 50%; margin: 0 10px;" />
   </a>
 
-  <a href="https://discord.gg/wagxzStdcR" target="_blank" title="Discord">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/discord.svg" width="36" height="36" style="margin: 0 12px; border-radius: 50%;" />
+  <a href="https://discord.gg/wagxzStdcR" target="_blank">
+    <img src="https://img.shields.io/badge/-%20-%237289DA?logo=discord&logoColor=white&style=social" height="40" style="border-radius: 50%; margin: 0 10px;" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/afpaulo-45875016a" target="_blank">
+    <img src="https://img.shields.io/badge/-%20-%230077B5?logo=linkedin&logoColor=white&style=social" height="40" style="border-radius: 50%; margin: 0 10px;" />
+  </a>
+
+  <a href="https://dev.to/afpaulo" target="_blank">
+    <img src="https://img.shields.io/badge/-%20-%230A0A0A?logo=devdotto&logoColor=white&style=social" height="40" style="border-radius: 50%; margin: 0 10px;" />
   </a>
 </div>
