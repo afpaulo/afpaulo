@@ -4,13 +4,13 @@
   <img src="https://komarev.com/ghpvc/?username=afpaulo&color=yellow" alt="Profile views" />
 </p>
 
-<div align="center" style="width: 80%; max-width: 500px;">
+<div align="center" style="max-width: 500px;">
   <p><strong>Computer Engineering student · Full-stack Developer</strong></p>
   <p>Focused on building scalable, efficient, and modern web applications.</p>
   <p>Working with both frontend and backend technologies since 2019.</p>
 </div>
 
-<br />
+<br/>
 
 <div align="center">
   <h2><strong>Tech Stack</strong></h2>
@@ -19,37 +19,39 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
 </div>
 
-<br />
+<br/>
 
 <div align="center">
   <h2><strong>Contacts</strong></h2>
-
-  <a href="mailto:afpaulo203@gmail.com" target="_blank" title="Gmail">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gmail.svg" width="40" height="40" style="border-radius: 50%; margin: 0 10px;" />
+  <a href="mailto:afpaulo203@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/afpaulo-45875016a" target="_blank" title="LinkedIn">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" height="40" style="border-radius: 50%; margin: 0 10px;" />
+  <a href="https://www.linkedin.com/in/afpaulo-45875016a" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://dev.to/afpaulo" target="_blank" title="Dev.to">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="40" height="40" style="border-radius: 50%; margin: 0 10px;" />
+  <a href="https://dev.to/afpaulo" target="_blank">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
   </a>
 </div>
 
-<br />
+<br/>
 
 <div align="center">
   <h2><strong>Social</strong></h2>
 
   <a href="https://instagram.com/afonsopaulo.official" target="_blank" title="Instagram">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="40" height="40" style="border-radius: 50%; margin: 0 10px;" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" width="36" height="36" style="margin: 0 12px; border-radius: 50%;" />
   </a>
+
   <a href="https://facebook.com/afonsopaulo.official" target="_blank" title="Facebook">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="40" height="40" style="border-radius: 50%; margin: 0 10px;" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/facebook.svg" width="36" height="36" style="margin: 0 12px; border-radius: 50%;" />
   </a>
+
   <a href="https://www.twitch.tv/afpaulo" target="_blank" title="Twitch">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="40" height="40" style="border-radius: 50%; margin: 0 10px;" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/twitch.svg" width="36" height="36" style="margin: 0 12px; border-radius: 50%;" />
   </a>
+
   <a href="https://discord.gg/wagxzStdcR" target="_blank" title="Discord">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="40" height="40" style="border-radius: 50%; margin: 0 10px;" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/discord.svg" width="36" height="36" style="margin: 0 12px; border-radius: 50%;" />
   </a>
 </div>
